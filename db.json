@@ -1,5 +1,5 @@
 
-[
+{
   "users" : [
   {
     "id": 1,
@@ -8,4 +8,4 @@
     "email": "Sincere@april.biz"
    } 
 ]
-]
+}
